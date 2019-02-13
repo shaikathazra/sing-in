@@ -1,0 +1,68 @@
+*{
+
+     margin: 0px;
+     padding: 0px;
+
+}
+
+body{
+
+	 background: url(../img/bg1.jpeg);
+	 background-size: cover;
+	 font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+	
+     text-align: center;
+
+}
+
+h2{
+	 color: #fff;
+
+}
+
+.recreat-section{
+
+	 width: 500px;
+      margin: 365px auto;
+      padding: 50px;
+      text-align: center;
+      background: rgba(0,0,0,.8);
+      border-radius: 10px;
+
+}
+
+.form-control{
+
+      width: 100%;
+      height: 33px;
+      margin: 0 auto;
+      border: none;
+      border-bottom: 2px solid #a09695;
+      font-size: 16px;
+      outline: none;
+      margin-bottom: 30px;
+      background: transparent;
+      color: #a09695;
+
+}
+
+.btn{
+
+     color: black;
+     border-radius: 52px;
+     padding: 17px 83px;
+     background: #fff;
+     border: none;
+     outline: none;
+     font-size: 18px;
+     transition: 0.8s;
+}
+
+input.btn:hover {
+
+    background:#a09695 ;
+}   
